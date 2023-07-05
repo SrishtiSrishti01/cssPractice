@@ -1,0 +1,36 @@
+*{
+    margin : 0;
+    padding : 0;
+}
+
+body{
+    box-sizing: border-box;
+}
+
+.box{
+border-radius: 10px;
+width:500px;
+padding : 120px 80px 120px 60px;
+margin : 120px auto;
+background-color: rgb(48, 225, 142);
+font-size: 40px !important;
+font-weight: 900 !important;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.para{
+    
+    padding: 25px 0px;
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.btn{
+background-color: white;
+width: 220px;
+height: 50px;
+border:none;
+border-radius: 50px;
+font-size: 19px;
+font-weight:700;
+}
